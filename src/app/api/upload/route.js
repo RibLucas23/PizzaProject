@@ -31,5 +31,4 @@ export async function POST(req) {
 		);
 		return Response.json('el link de aws bucke.com/' + newFileName);
 	}
-	return Response.json(true);
 }

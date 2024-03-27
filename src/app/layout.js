@@ -6,7 +6,7 @@ import AppContext from './components/AppContext';
 import { Toaster } from 'react-hot-toast';
 export const metadata = {
 	title: 'Nicastro Pizza',
-	description: 'developed by Lucas Ribeiro',
+	description: 'Developed by Lucas Ribeiro',
 };
 
 export default function RootLayout({ children }) {
